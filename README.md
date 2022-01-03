@@ -1,2 +1,2 @@
 # Dotfiles
-I want to mess with my dotfiles :)
+I like to mess with my dotfiles :)
